@@ -7,16 +7,6 @@ puts "I could have code like this." # and the comment after is ignored
 # You can also use a comment to "disable" or comment out a piece of code:
 # puts "This won't run."
 
-puts "This will run."
-
-
-puts "I will now count my chickens:"
-
-puts "Hens #{25 + 30 / 6}"
-puts "Roosters #{10/3}"
-
-puts "Now I will count the eggs:"
-
 puts 3 + 2 + 1 - 5 + 4 % 2 - 1 / 4 + 6
 
 puts "Is it true that 3 + 2 < 5 - 7?"
